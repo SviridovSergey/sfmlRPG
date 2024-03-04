@@ -1,1 +1,2 @@
-# sfmlRPG
+# sfmlRPG  
+Stack:c++,sfml  
